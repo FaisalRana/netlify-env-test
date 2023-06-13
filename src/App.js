@@ -18,6 +18,8 @@ function App() {
           Learn React
         </a>
         <p>Hello: $REACT_APP_TEST </p>
+        <p>Hello: $REACT_APP_TEST </p>
+        {/* <p>Hello: {$REACT_APP_TEST} </p> */}
       </header>
     </div>
   );
